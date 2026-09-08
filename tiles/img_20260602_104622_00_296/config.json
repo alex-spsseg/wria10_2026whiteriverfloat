@@ -1,0 +1,44 @@
+{
+  "mode": "single",
+  "format": "raw",
+  "yaw_1": 0.0,
+  "pitch_1": 0.0,
+  "yaw_2": 0.0,
+  "pitch_2": 0.0,
+  "lat": 47.15368387929136,
+  "lng": -121.67867311604554,
+  "label_1": "IMG_20260602_104622_00_296 (2026/06/02)",
+  "label_2": "",
+  "autorotate": false,
+  "hotspots_1": [
+    {
+      "yaw": 3.3594042566961235,
+      "pitch": 0,
+      "title": "Upstream \u00b7 Stop 5",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_104547_00_295"
+    },
+    {
+      "yaw": 0.2098627599447739,
+      "pitch": 0,
+      "title": "Downstream \u00b7 Stop 7",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_104652_00_297"
+    }
+  ],
+  "hotspots_2": [],
+  "levels_1": [],
+  "levels_2": [],
+  "pin_style": "dot",
+  "basemap_type": "esri_tile",
+  "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/UpperWhiteRiver_REM_resampled_6ft_attempt2/MapServer/tile/{z}/{y}/{x}",
+  "mobile_1": 4500,
+  "mobile_2": 0,
+  "heading_offset": 217.81027633597228
+}
