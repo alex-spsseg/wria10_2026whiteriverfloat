@@ -12,7 +12,7 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 4.126310977304487,
+      "yaw": 3.9426130093603478,
       "pitch": 0,
       "title": "Upstream \u00b7 Stop 80",
       "text": "",
@@ -22,7 +22,7 @@
       "target": "img_20260602_113406_00_370"
     },
     {
-      "yaw": 0.9934754849262505,
+      "yaw": 0.8097775169791215,
       "pitch": 0,
       "title": "Downstream \u00b7 Stop 82",
       "text": "",
@@ -40,5 +40,5 @@
   "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/UpperWhiteRiver_REM_resampled_6ft_attempt2/MapServer/tile/{z}/{y}/{x}",
   "mobile_1": 4500,
   "mobile_2": 0,
-  "heading_offset": 260.0
+  "heading_offset": 270.5251182687024
 }
