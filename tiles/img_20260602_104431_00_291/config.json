@@ -12,16 +12,6 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 3.141592653589793,
-      "pitch": 0,
-      "title": "Upstream \u00b7 Stop 1",
-      "text": "",
-      "link": "",
-      "category": "link",
-      "pin_style": "label_hover",
-      "target": "img_20260602_104418_00_290"
-    },
-    {
       "yaw": 4.578062726819233,
       "pitch": 0,
       "title": "Downstream \u00b7 Stop 2",
