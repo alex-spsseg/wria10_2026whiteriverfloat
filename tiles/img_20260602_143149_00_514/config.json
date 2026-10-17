@@ -40,5 +40,7 @@
   "basemap_url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/UpperWhiteRiver_REM_resampled_6ft_attempt2/MapServer/tile/{z}/{y}/{x}",
   "mobile_1": 4500,
   "mobile_2": 0,
-  "heading_offset": 345.0
+  "heading_offset": 345.0,
+  "alt_checked": true,
+  "alt": 351.15
 }
