@@ -14,7 +14,7 @@
     {
       "yaw": 3.7262257657621283,
       "pitch": 0,
-      "title": "Upstream \u00b7 Stop 225",
+      "title": "Stop 225 \u00b7 21 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -24,7 +24,7 @@
     {
       "yaw": 4.47017939066004,
       "pitch": 0,
-      "title": "Downstream \u00b7 Stop 227",
+      "title": "Stop 227 \u00b7 53 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -34,7 +34,7 @@
     {
       "yaw": 2.836528427253884,
       "pitch": -0.06283832241789979,
-      "title": "Float Image 218",
+      "title": "Stop 218 \u00b7 22 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -45,7 +45,7 @@
     {
       "yaw": 2.9854787017134594,
       "pitch": -0.0366241961353201,
-      "title": "Float Image 219",
+      "title": "Stop 219 \u00b7 34 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -56,7 +56,7 @@
     {
       "yaw": 3.519997933883994,
       "pitch": 0.011024130973392873,
-      "title": "Float Image 224",
+      "title": "Stop 224 \u00b7 38 m",
       "text": "",
       "link": "",
       "category": "link",
