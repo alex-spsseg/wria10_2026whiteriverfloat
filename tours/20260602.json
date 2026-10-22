@@ -926,7 +926,6 @@
       "display_name": "Float Image 116",
       "lat": 47.1666568137032,
       "lng": -121.77368086522978,
-      "platform": "float",
       "alt": 410.17
     },
     {
@@ -934,7 +933,6 @@
       "display_name": "Float Image 117",
       "lat": 47.167048121189495,
       "lng": -121.77489566908442,
-      "platform": "float",
       "alt": 408.34
     },
     {
@@ -942,7 +940,6 @@
       "display_name": "Float Image 118",
       "lat": 47.167148377404935,
       "lng": -121.77489409210095,
-      "platform": "float",
       "alt": 409.66
     },
     {

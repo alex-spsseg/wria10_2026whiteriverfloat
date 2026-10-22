@@ -30,6 +30,28 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_142906_00_513"
+    },
+    {
+      "yaw": 2.2049023356573825,
+      "pitch": 0.04577080675571261,
+      "title": "Float Image 222",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_143149_00_514",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 2.482848092970903,
+      "pitch": 0.056257390246301116,
+      "title": "Float Image 223",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_143710_00_515",
+      "link_icon": "ground"
     }
   ],
   "hotspots_2": [],

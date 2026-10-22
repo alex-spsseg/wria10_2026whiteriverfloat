@@ -22,7 +22,7 @@
       "target": "img_20260602_143710_00_515"
     },
     {
-      "yaw": 0.0,
+      "yaw": 0,
       "pitch": 0,
       "title": "Downstream \u00b7 Stop 226",
       "text": "",
@@ -40,6 +40,61 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_144247_00_518"
+    },
+    {
+      "yaw": 4.468238558826388,
+      "pitch": -0.07280238578030888,
+      "title": "Float Image 218",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_142347_00_510",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 4.987871198113153,
+      "pitch": -0.0860567048417292,
+      "title": "Float Image 219",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_142453_00_511",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.5981719377598762,
+      "pitch": 0.01060902453529202,
+      "title": "Float Image 222",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_143149_00_514",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 3.8690624808179455,
+      "pitch": -0.011024128124579462,
+      "title": "Float Image 226",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_144327_00_519",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 2.4707753555834016,
+      "pitch": -0.0020691869683157316,
+      "title": "Float Image 227",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_144438_00_520",
+      "link_icon": "ground"
     }
   ],
   "hotspots_2": [],

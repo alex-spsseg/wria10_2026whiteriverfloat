@@ -30,6 +30,17 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_125807_00_410"
+    },
+    {
+      "yaw": 3.679026447258572,
+      "pitch": -0.004771273920154574,
+      "title": "Float Image 116",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_121029_00_407",
+      "link_icon": "ground"
     }
   ],
   "hotspots_2": [],
@@ -42,6 +53,5 @@
   "mobile_2": 0,
   "heading_offset": 270.0,
   "alt_checked": true,
-  "alt": 409.66,
-  "float": true
+  "alt": 409.66
 }

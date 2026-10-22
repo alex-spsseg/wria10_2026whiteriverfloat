@@ -30,6 +30,17 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_145212_00_523"
+    },
+    {
+      "yaw": 4.64304698850307,
+      "pitch": -0.03609844241848839,
+      "title": "Float Image 227",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_144438_00_520",
+      "link_icon": "ground"
     }
   ],
   "hotspots_2": [],

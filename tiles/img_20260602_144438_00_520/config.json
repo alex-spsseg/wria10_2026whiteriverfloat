@@ -30,6 +30,61 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_145035_00_521"
+    },
+    {
+      "yaw": 5.263295322926587,
+      "pitch": 0.0020691918033027596,
+      "title": "Float Image 224",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_144159_00_516",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 4.844812389660848,
+      "pitch": -0.004539078916911019,
+      "title": "Float Image 225",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_144247_00_518",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 4.00460525534668,
+      "pitch": 0.021893381181853078,
+      "title": "Float Image 216",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_141530_00_508",
+      "link_icon": "float"
+    },
+    {
+      "yaw": 4.017014176988108,
+      "pitch": 0.04232367034940406,
+      "title": "Float Image 217",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_141542_00_509",
+      "link_icon": "float"
+    },
+    {
+      "yaw": 1.763264951465417,
+      "pitch": 0.03609843515856679,
+      "title": "Float Image 229",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_145128_00_522",
+      "link_icon": "float"
     }
   ],
   "hotspots_2": [],

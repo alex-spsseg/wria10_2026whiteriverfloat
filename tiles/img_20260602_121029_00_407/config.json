@@ -30,6 +30,50 @@
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20260602_121321_00_408"
+    },
+    {
+      "yaw": 1.7591797983364077,
+      "pitch": 0.004771241338561353,
+      "title": "Float Image 118",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_121700_00_409",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 4.5669972610899565,
+      "pitch": 0.0029966825248307627,
+      "title": "Float Image 119",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_125807_00_410",
+      "link_icon": "float"
+    },
+    {
+      "yaw": 4.109569822694898,
+      "pitch": 0.015423553339996728,
+      "title": "Float Image 120",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_125822_00_411",
+      "link_icon": "float"
+    },
+    {
+      "yaw": 3.437549879059387,
+      "pitch": 0.021449504564499428,
+      "title": "Float Image 121",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20260602_125845_00_412",
+      "link_icon": "float"
     }
   ],
   "hotspots_2": [],
@@ -42,6 +86,5 @@
   "mobile_2": 0,
   "heading_offset": 200.0,
   "alt_checked": true,
-  "alt": 410.17,
-  "float": true
+  "alt": 410.17
 }
