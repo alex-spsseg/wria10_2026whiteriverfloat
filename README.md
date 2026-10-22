@@ -8,4 +8,4 @@ Live site: [All tours](https://alex-spsseg.github.io/wria10_2026whiteriverfloat/
 
 ## Tours
 
-- [Upper White River Float Survey (6/2/2026)](https://alex-spsseg.github.io/wria10_2026whiteriverfloat/index.html?tour=20260602) (visited 2026-06-02, 262 stops)
+- [Upper White River Float Survey](https://alex-spsseg.github.io/wria10_2026whiteriverfloat/index.html?tour=20260602) (visited 2026-06-02, 262 stops)

@@ -42,5 +42,6 @@
   "mobile_2": 0,
   "heading_offset": 270.5251182687024,
   "alt_checked": true,
-  "alt": 435.4
+  "alt": 435.4,
+  "float": true
 }

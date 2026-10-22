@@ -42,5 +42,6 @@
   "mobile_2": 0,
   "heading_offset": 180.0,
   "alt_checked": true,
-  "alt": 443.04
+  "alt": 443.04,
+  "float": true
 }
